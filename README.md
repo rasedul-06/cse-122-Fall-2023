@@ -1,2 +1,7 @@
-# cse-122-Fall-2023
-This is an oop lab repository
+Name : Md. Rasedul Islam
+
+ID : 22235103086
+
+Intake : 51
+
+Section : 02
